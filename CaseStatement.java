@@ -3,7 +3,7 @@ package com.EmpWage;
 public class CaseStatement {
 
 	public static void main(String[] args) {
-		// UC-4-Solve employee wage using case statement
+	// UC-4-Solve employee wage using case statement
 		
 		//Constants 
 		final int IS_FULL_TIME=1;
