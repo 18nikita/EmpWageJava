@@ -22,7 +22,7 @@ public class FullTimeEmpWage {
 				
 					//Formula
 					empWage = empHrs*EMP_RATE_PER_HOUR;
-					System.out.println("Employee Wage for full time is: " + empWage);
+					System.out.println("Employee Wage is: " + empWage);
 			}
 
 
